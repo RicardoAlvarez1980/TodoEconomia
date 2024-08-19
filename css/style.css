@@ -1,3 +1,7 @@
+body {
+  background-color: #f5f5dc; /* Color de fondo cremita */
+}
+
 .task-done {
   color: green;
   text-decoration: line-through;
