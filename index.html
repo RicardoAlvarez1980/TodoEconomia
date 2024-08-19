@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TodoList</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom CSS -->
+  <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container mt-5">
+    <h1 class="mb-4">Lista de Tareas:</h1>
+    
+    <!-- Input de nueva tarea y prioridad -->
+    <div class="input-group mb-3">
+      <input type="text" id="taskInput" class="form-control" placeholder="Ingrese una tarea">
+      <select id="priorityInput" class="form-control">
+        <option value="1">Prioridad 1</option>
+        <option value="2">Prioridad 2</option>
+        <option value="3">Prioridad 3</option>
+        <option value="4">Prioridad 4</option>
+        <option value="5">Prioridad 5</option>
+      </select>
+      <div class="input-group-append">
+        <button class="btn btn-primary btn-add" type="button" onclick="addTask()">Agregar</button>
+      </div>
+    </div>
+    
+    <!-- Botones para ordenar tareas -->
+    <div class="d-flex justify-content-between mb-3">
+      <button class="btn btn-secondary" onclick="sortTasks('priority')">Ordenar por Prioridad</button>
+      <button class="btn btn-secondary" onclick="sortTasks('modification')">Ordenar por Fecha de Modificación</button>
+    </div>
+    
+    <!-- Lista de tareas -->
+    <ul id="taskList" class="list-group">
+    </ul>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- Custom JavaScript -->
+  <script src="js/script.js"></script>
+</body>
+</html>
