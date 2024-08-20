@@ -30,7 +30,6 @@ El objetivo principal de este proyecto es desarrollar una aplicación web para l
 ### Alcance, Diseño, Planificación e Implementación
 El proyecto está diseñado para funcionar como una aplicación web simple, utilizando tecnologías frontend como HTML, CSS y JavaScript. El alcance inicial del proyecto se centra en la implementación de las funcionalidades básicas requeridas, sin considerar funcionalidades avanzadas como autenticación de usuarios o almacenamiento persistente de datos (por ejemplo, en una base de datos). La aplicación está orientada a usuarios individuales que deseen gestionar una lista de tareas de manera eficiente y visualmente agradable.
 
-### Análisis
 ## Evaluación del Proyecto
 
 ### Eficiencia
