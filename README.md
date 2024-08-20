@@ -1,4 +1,4 @@
-﻿# TodoEconomia
+# TodoEconomia
 ## Descripción del Proyecto
 
 ### Objetivos
@@ -43,7 +43,7 @@ La eficiencia del proyecto se evaluó comparando el tiempo estimado y los recurs
   - El tiempo estimado y los recursos fueron adecuados para la mayoría de las tareas, pero algunos imprevistos en la fase de pruebas indicaron que una planificación más detallada podría haber mejorado la eficiencia.
     
 - **¿Podría haber sido más eficiente?** 
-  - La asignación de tareas podría haber sido optimizada, y el uso de herramientas automatizadas para pruebas podría haber reducido el tiempo total del proyecto.
+  - La asignación de tareas podría haber sido optimizada, y el uso de herramientas automatizadas para pruebas podría haber reducido el tiempo total del proyecto dado que el proyecto fue testeado manualmente. En los estandares de calidad, todo producto puede y debe ser mejorado para ser más atractivo que los competidores y no quedarse desactualizado.
 
 ### Eficacia
 La eficacia del proyecto se mide analizando si se cumplieron los objetivos establecidos y cómo se lograron.
@@ -52,18 +52,17 @@ La eficacia del proyecto se mide analizando si se cumplieron los objetivos estab
 - **Objetivos Cumplidos:** 
   - Se desarrolló una aplicación web funcional para la gestión de tareas con todas las características requeridas.
 - **Cómo se lograron:** 
-  - Se implementaron métodos ágiles de desarrollo para adaptar el trabajo según las necesidades del proyecto y se realizaron reuniones periódicas para asegurar el cumplimiento de los objetivos.
+  - Se implementaron métodos ágiles de desarrollo (scrum) para adaptar el trabajo según las necesidades del proyecto  para asegurar el cumplimiento de los objetivos.
 
 ### Productividad
-La productividad se midió en relación con la cantidad de funcionalidad desarrollada frente a los recursos utilizados, por ejemplo, líneas de código producidas por hora.
+La productividad se midió en relación con la cantidad de funcionalidad desarrollada frente a los recursos utilizados utilizando cantidad de programadores (recursos) y eficacia (objetivo cumplido en el menor tiempo posible con respecto a la competencia).
 
 **Evaluación:**
 - **Funcionalidad Desarrollada:** 
   - Se implementaron funcionalidades completas para agregar, editar, eliminar y ordenar tareas.
 - **Líneas de Código por Hora:** 
-  - Aproximadamente 100 líneas de código fueron desarrolladas por hora, incluyendo JavaScript y CSS.
+  - Aproximadamente 100 líneas de código fueron desarrolladas en 30 minutos, incluyendo JavaScript y CSS.
 
 **Análisis:**
 - **¿Fue el tiempo y esfuerzo bien utilizado?** 
-  - El tiempo y esfuerzo se utilizaron eficientemente para alcanzar los objetivos del proyecto. Sin embargo, el desarrollo de ciertas funcionalidades podría haber sido acelerado con una planificación inicial más detallada.
-
+  - El tiempo y esfuerzo se utilizaron eficientemente para alcanzar los objetivos del proyecto. Se reutilizó un código adaptandolo a los nuevos requisitos, con el consecuente beneficio de haber logrado el objetivo en el menor tiempo.
