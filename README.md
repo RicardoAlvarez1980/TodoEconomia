@@ -33,14 +33,15 @@ El proyecto está diseñado para funcionar como una aplicación web simple, util
 ## Evaluación del Proyecto
 
 ### Eficiencia
-La eficiencia del proyecto se evaluó comparando el tiempo estimado y los recursos utilizados con los resultados obtenidos. Se asignaron 2 horas de trabajo y 4 programadores para llevar a cabo el proyecto. 
+La eficiencia del proyecto se evaluó comparando el tiempo estimado y los recursos utilizados con los resultados obtenidos. Se asignaron 30 minutos de trabajo y 2 programadores para llevar a cabo el proyecto. 
 
 **Evaluación:**
-- **Tiempo Estimado:** 2 horas
-- **Recursos Utilizados:** 4 programadores
+- **Tiempo Estimado:** 1 hora
+- **Recursos Utilizados:** 2 a 4 programadores
 
 - **¿Fue óptimo su uso?** 
   - El tiempo estimado y los recursos fueron adecuados para la mayoría de las tareas, pero algunos imprevistos en la fase de pruebas indicaron que una planificación más detallada podría haber mejorado la eficiencia.
+    
 - **¿Podría haber sido más eficiente?** 
   - La asignación de tareas podría haber sido optimizada, y el uso de herramientas automatizadas para pruebas podría haber reducido el tiempo total del proyecto.
 
