@@ -4,6 +4,12 @@
 ### Objetivos
 El objetivo principal de este proyecto es desarrollar una aplicación web para la administración de una lista de tareas. La aplicación permitirá a los usuarios agregar, editar y eliminar tareas, asignándoles un valor de prioridad, fecha de creación y fecha de modificación. Además, se implementará la funcionalidad para ordenar las tareas de forma ascendente según la prioridad o la fecha de modificación.
 
+### Recursos:
+- **Equipamiento:** SO Windows 10, entorno de desarrollo VSCode y GitHub
+- - **Recursos Humanos:** 2 Programadores:
+  - Alvarez, Ricardo
+  - Farías, Juan Cruz
+
 ### Requisitos de la Funcionalidad
 - **Agregar Tarea:** El usuario puede agregar nuevas tareas a la lista. Cada tarea debe incluir:
   - Texto descriptivo de la tarea.
