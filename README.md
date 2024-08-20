@@ -6,7 +6,7 @@ El objetivo principal de este proyecto es desarrollar una aplicación web para l
 
 ### Recursos:
 - **Equipamiento:** SO Windows 10, entorno de desarrollo VSCode y GitHub
-- - **Recursos Humanos:** 2 Programadores:
+- **Recursos Humanos:** 2 Programadores:
   - Alvarez, Ricardo
   - Farías, Juan Cruz
 
